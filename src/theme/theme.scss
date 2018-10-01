@@ -1,0 +1,10 @@
+$corporative-blue: dodgerblue;
+$button-white-font: #fff;
+ 
+.btn-blue {
+    border: 0;
+    padding: 5px 12px;
+    font-weight: bold;
+    color: $button-white-font;
+    background-color: $corporative-blue;
+}
